@@ -1,0 +1,13 @@
+.bottom {
+      background-color: rgba(0, 0, 0, 0.466);
+      height: 250px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 1.2rem;
+      bottom: 0;
+      box-shadow: 1px 1px 0 0 rgb(29, 28, 28);
+      border-radius: 10px  10px 0 0;
+      color: white;
+    }
+   
