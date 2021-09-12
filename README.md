@@ -1,15 +1,4 @@
-# MERN stack project 
-Dependencies in Express.js include:
-- cookie-parser
-- cloudinary
-- express-fileuplaod
-- jsonwebtoken
-- bcrypt
 
-Dependencies in React.js include:
-- paypal
-- axios
-- react-router-dom
 
 ## Install dependencies for server 
 ### `npm install`
